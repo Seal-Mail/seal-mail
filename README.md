@@ -20,7 +20,7 @@ This repository contains an implementation of Seal's search indexing library
 
 ### Documentation and whitepaper
 
-Seal Mail's technical model is documented in
+Seal Mail's technical model is documented in [docs](https://seal-mail.gitbook.io/seal-mail)
 
 ### Mobile friendly
 
