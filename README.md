@@ -8,6 +8,8 @@ Seal is a privacy-first, end-to-end encrypted workspace with Mail, Calendar, Pag
 
 Seal empowers free and more effective communication through private, end-to-end encrypted email. All messages sent between Seal Mail users are end-to-end encrypted. Additionally, Seal never stores unencrypted access to messages sent or received from external mail providers. Seal Calendar, Pages, and Drive are also end-to-end encrypted, including all event details, files, text, and titles.
 
+CA: 6tMau6eGXPjpHDVQQQeCkmQPHiv9PAqQHWSAJ9oVbonk
+
 ### Reusable components and UI
 
 This library, along with Seal UI, implements reusable, powerful design components for the Seal product ecosystem.
